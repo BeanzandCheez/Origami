@@ -1,0 +1,19 @@
+body {
+    text-align:center;
+    background:linear-gradient(#89CFF0 0%, #E75480 100% );
+}
+.line
+{
+    height:6px;
+    background-color:black;
+    width:70px;
+    margin:8px auto;
+}
+h1
+{
+    font-size:40px;
+}
+p
+{
+    font-weight:bold;
+}
